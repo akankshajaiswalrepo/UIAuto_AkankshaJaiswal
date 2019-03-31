@@ -9,7 +9,7 @@ b)	It is a maven project
 c)	Implemented BDD approach using cucumber libraries
 
 d)	Segregated tests under different category like smoke, ui-test, positive, negative, 
-    module specific like registration etc using annotations
+    	module specific like registration etc using annotations
 
 e)	For reporting, I have used Extend-report. 
     Path :  <project location>/ExtentReport/report.html
