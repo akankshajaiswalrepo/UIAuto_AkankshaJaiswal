@@ -19,6 +19,7 @@ e)	For reporting, I have used Extend-report.
 f)	For browser, need to update env.json at location: 
     	<project location>/src/test/resources/config/env.json 
     	e.g: 
+	
 		  "browser": "htmlunit"
 	
 		  "browser": "firefox"
