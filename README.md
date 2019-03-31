@@ -3,8 +3,11 @@
 Test automation Suite design
 
 a)	Used Selenium framework with Java
+
 b)	It is a maven project
+
 c)	Implemented BDD approach using cucumber libraries
+
 d)	Segregated tests under different category like smoke, ui-test, positive, negative, 
     module specific like registration etc using annotations
 
