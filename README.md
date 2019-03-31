@@ -11,7 +11,8 @@ c)	Implemented BDD approach using cucumber libraries
 d)	Segregated tests under different category like smoke, ui-test, positive, negative, 
     	module specific like registration etc using annotations
 
-e)	For reporting, I have used Extend-report. 
+e)	For reporting, I have used Extend-report.
+
     	Path :  <project location>/ExtentReport/report.html
     	Screenshots at path: <project location>/screenshots
     
@@ -30,6 +31,7 @@ g)	Delete API (/user/all Delete all users) is used as a pre-requisite and post s
 	Using RestAssured library.
 
 h)	Executing Test Suite:
+
     	Using CucumberRunnerTest File: Import this project in any ide (eclipse or InteliJ)
     	as maven project and wait for the dependencies to download. Java 11 and Apache Maven
     	3.6.0 are used while working on this project.
